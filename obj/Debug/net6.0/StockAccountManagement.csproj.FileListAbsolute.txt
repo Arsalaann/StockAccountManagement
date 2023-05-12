@@ -1,0 +1,15 @@
+/home/luser/pgming/StockAccountManagement/bin/Debug/net6.0/StockAccountManagement
+/home/luser/pgming/StockAccountManagement/bin/Debug/net6.0/StockAccountManagement.deps.json
+/home/luser/pgming/StockAccountManagement/bin/Debug/net6.0/StockAccountManagement.runtimeconfig.json
+/home/luser/pgming/StockAccountManagement/bin/Debug/net6.0/StockAccountManagement.dll
+/home/luser/pgming/StockAccountManagement/bin/Debug/net6.0/ref/StockAccountManagement.dll
+/home/luser/pgming/StockAccountManagement/bin/Debug/net6.0/StockAccountManagement.pdb
+/home/luser/pgming/StockAccountManagement/obj/Debug/net6.0/StockAccountManagement.csproj.AssemblyReference.cache
+/home/luser/pgming/StockAccountManagement/obj/Debug/net6.0/StockAccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/luser/pgming/StockAccountManagement/obj/Debug/net6.0/StockAccountManagement.AssemblyInfoInputs.cache
+/home/luser/pgming/StockAccountManagement/obj/Debug/net6.0/StockAccountManagement.AssemblyInfo.cs
+/home/luser/pgming/StockAccountManagement/obj/Debug/net6.0/StockAccountManagement.csproj.CoreCompileInputs.cache
+/home/luser/pgming/StockAccountManagement/obj/Debug/net6.0/StockAccountManagement.dll
+/home/luser/pgming/StockAccountManagement/obj/Debug/net6.0/ref/StockAccountManagement.dll
+/home/luser/pgming/StockAccountManagement/obj/Debug/net6.0/StockAccountManagement.pdb
+/home/luser/pgming/StockAccountManagement/obj/Debug/net6.0/StockAccountManagement.genruntimeconfig.cache
