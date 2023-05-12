@@ -1,14 +1,25 @@
 ﻿namespace StockAccountManagement{
     class Program{
         public static void Main(string [] args){
-            Stock stock1=new Stock("Rice",3,23.44);
-            Stock stock2=new Stock("Mice",4,3.44);
-            Stock stock3=new Stock("Cice",5,2.44);
-
             AllStock allStock=new AllStock();
-            allStock.AddStock(stock1);
-            allStock.AddStock(stock2);
-            allStock.AddStock(stock3);
+            Console.Write("Enter number of stacks: ");
+            int n=Convert.ToInt32(Console.ReadLine());
+            for(int i=1;i<=n;i++){
+                Console.Write("Name: ");
+                string stockName=Console.ReadLine();
+
+                Console.Write("Count: ");
+                int stockCount=Convert.ToInt32(Console.ReadLine());
+
+                Console.Write("Price: ");
+                double price=Convert.ToDouble(Console.ReadLine());
+
+                Stock dummy=new Stock(stockName, stockCount, price);
+
+                dummy.stockValue=price*stockCount;
+
+                allStock.AddStock(dummy);
+            }
 
             allStock.DisplayStocks();
         }

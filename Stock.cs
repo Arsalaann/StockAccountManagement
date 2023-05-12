@@ -1,8 +1,7 @@
 namespace StockAccountManagement{
     class Stock{
         public string stockName="";
-        public int shareCount;
-        public double price;
+        public double price,shareCount,stockValue;
         public Stock(string a,int b,double c){
             stockName=a;
             shareCount=b;

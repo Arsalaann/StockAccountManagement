@@ -7,7 +7,7 @@ namespace StockAccountManagement{
         }
         public void DisplayStocks(){
             foreach(var stock in MyStock)
-                Console.WriteLine(stock.stockName+"  "+stock.shareCount+"  "+stock.price);
+                Console.WriteLine(stock.stockName+"  "+stock.shareCount+"  "+stock.price+" "+stock.stockValue);
         }
     }
 }
